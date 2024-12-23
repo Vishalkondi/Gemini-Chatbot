@@ -1,6 +1,8 @@
 Gemini Chatbot
 Gemini Chatbot is an interactive web application that simulates a chatbot experience. It dynamically generates responses to user inputs using an API integration, features theme switching, and allows users to save chats locally for future reference.
 
+![Screenshot (32)](https://github.com/user-attachments/assets/e21b2bcf-7446-489f-82b7-3e0b41fd3b8b)
+
 Features
 Dynamic Chat Responses: Fetches responses from the Gemini API based on user queries.
 Interactive Suggestions: Predefined suggestions to help users get started.
